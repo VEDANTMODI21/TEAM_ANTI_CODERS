@@ -173,4 +173,7 @@ This project is licensed under the MIT License.
 
 ---
 
-**Made with ❤️ by Team Anti Coders**
+**Made with ❤️ by Team Anti Coders(
+    VEDANT MODI(RA2311027010090)
+        KRISH SATI(RA2311027010094)
+            PRASAD PATIL(RA2311027010104))**
