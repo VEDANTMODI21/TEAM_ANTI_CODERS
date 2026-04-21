@@ -1,0 +1,22 @@
+{
+  "name": "team-anti-coders-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Team Anti Coders - Student Team Members Management Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["team-management", "express", "mongodb"],
+  "author": "Team Anti Coders",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.5.0",
+    "multer": "^2.1.1"
+  }
+}
