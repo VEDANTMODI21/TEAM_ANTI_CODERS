@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import axios from 'axios';
+import logo from '../assets/logo.jpg';
 
 function Home() {
   const [memberCount, setMemberCount] = useState(0);
@@ -28,6 +29,10 @@ function Home() {
         team members, track projects, and showcase achievements — all in one
         beautiful interface.
       </p>
+
+      <div className="home-team-photo">
+        <img src={logo} alt="Team Anti Coders" />
+      </div>
 
       <div className="home-buttons">
         <Link to="/add-member" className="btn btn-primary btn-lg" id="btn-add-member">

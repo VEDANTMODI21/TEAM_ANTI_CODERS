@@ -1,6 +1,8 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
 
+import logo from '../assets/logo.jpg';
+
 function Header() {
   const location = useLocation();
 
@@ -12,7 +14,7 @@ function Header() {
   return (
     <header className="header" id="main-header">
       <Link to="/" className="header-logo">
-        <span className="logo-icon">⚡</span>
+        <img src={logo} alt="Logo" className="logo-image" />
         TEAM ANTI CODERS
       </Link>
       <nav className="header-nav" id="main-nav">
