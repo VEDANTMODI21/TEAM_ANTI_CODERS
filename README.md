@@ -158,12 +158,12 @@ TEAM_ANTI_CODERS/
 
 ## 👥 Team Members
 
-| Name              | Role                |
-|-------------------|---------------------|
-| Member 1          | Full Stack Developer|
-| Member 2          | Frontend Developer  |
-| Member 3          | Backend Developer   |
-| Member 4          | Database & Testing  |
+| Name                                | Role                |
+|-------------------------------------|---------------------|
+| VEDANT MODI (RA2311027010090)       | Full Stack Developer|
+| KRISH SATI (RA2311027010094)        | Frontend Developer  |
+| PRASAD PATIL (RA2311027010104)      | Backend Developer   |
+| TEAM ANTI CODERS                    | Database & Testing  |
 
 ---
 
